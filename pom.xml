@@ -21,10 +21,10 @@
   </distributionManagement>  
   <properties>
      <releases.distribution.url>
-        ${repository.server.root}/test-releases/
+        ${repository.server.root}/devops-releases/
      </releases.distribution.url>
      <snapshots.distribution.url>
-        ${repository.server.root}/test-snapshots/
+        ${repository.server.root}/devops-snapshots/
      </snapshots.distribution.url>
   </properties>
 
